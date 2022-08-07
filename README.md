@@ -1,4 +1,4 @@
-Redux commandline tool <br/>
+Redux command-line tool <br/>
 On terminal, use the following command to get started
 
 1. npm i
